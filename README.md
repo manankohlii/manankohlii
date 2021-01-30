@@ -1,5 +1,5 @@
 <h1 align="center">Hello,I'm Manan👋</h1>
-<p align="left"> <a href="https://twitter.com/manankohlii" target="blank"><img src="https://img.shields.io/twitter/follow/manankohlii?logo=twitter&style=for-the-badge" alt="manankohlii" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 

@@ -1,10 +1,5 @@
 ### Hello, I'm Manan 👋
 
-<!--
-**manankohlii/manankohlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...WebDevelopment
 - 🌱 I’m currently learning ...Machine Learning
 - ⚡ Available for Projects and Internship Oppurtunities ...
